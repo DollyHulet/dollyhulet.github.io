@@ -1,0 +1,9 @@
+{
+  "_note": "Single source for brokerage details. Edit, then run: python3 _build/build.py",
+  "brokerage_name": "Real Broker, LLC",
+  "brokerage_listing_name": "Real Broker LLC",
+  "brokerage_logo": "assets/logos/tdhg-real-header.webp",
+  "brokerage_logo_alt": "Real Broker, LLC / The Dolly Hulet Group",
+  "suite": "200",
+  "address_template": "9580 W. Sahara Ave., Ste. {suite}, Las Vegas, NV 89117"
+}
